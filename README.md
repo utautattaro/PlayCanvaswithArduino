@@ -3,8 +3,14 @@
 1. install node.js
 <pre>
 >choco install -y nodejs
+</pre>
 
+1. install ws
+<pre>
 >npm install ws
+</pre>
 
+1. install wscat 
+<pre>
 >npm install wscat
 </pre>
