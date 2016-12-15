@@ -2,29 +2,29 @@
 
 ## Usage
 1. install node.js
-<pre>
 >choco install -y nodejs
-</pre>
-
 1. install ws
-
-<pre>
 >npm install ws
-</pre>
-
 1. install wscat 
-<pre>
 >npm install wscat
-</pre>
-
 
 ## Test
 server
-<pre>
 >node app.js
-</pre>
 
 client
-<pre>
 > wscat -c ws://localhost:8081
-</pre>
+
+## License
+MIT License
+
+Copyright (c) 2016 Ryotaro Tsuda
+
+
+## Author
+<img width="30%" src="http://i.imgur.com/Xh1GynL.jpg" />
+
+ryotaro
+[portal](http://utautattaro.com)
+[blog](http://blog.utautattaro.com)
+[playcanvas](https://playcanvas.com/ryotaro)
