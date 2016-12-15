@@ -1,4 +1,4 @@
-#nodejssample
+# nodejssample
 
 ## Usage
 1. install node.js
@@ -7,6 +7,7 @@
 </pre>
 
 1. install ws
+
 <pre>
 >npm install ws
 </pre>
@@ -17,7 +18,7 @@
 </pre>
 
 
-##Test
+## Test
 server
 <pre>
 >node app.js
