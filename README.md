@@ -1,5 +1,6 @@
 #nodejssample
 
+## Usage
 1. install node.js
 <pre>
 >choco install -y nodejs
@@ -13,4 +14,16 @@
 1. install wscat 
 <pre>
 >npm install wscat
+</pre>
+
+
+##Test
+server
+<pre>
+>node app.js
+</pre>
+
+client
+<pre>
+> wscat -c ws://localhost:8081
 </pre>
